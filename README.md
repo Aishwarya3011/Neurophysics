@@ -1,4 +1,4 @@
-# Neurophysics: Unsupervised learning for rat behavior quantification
+# Neurophysics: Unsupervised Machine Learning for neural behavior quantification
 
 ## Data:
 
