@@ -2,6 +2,8 @@
 
 ## Data:
 
+The data for this project is a .mat file which has been protected for privacy reasons. Here is a gist of the data and the analysis.
+
 1. Rat walks on an elevated table to get food.
 2. 12 trials done on different rats.
 3. Position (x, y) of a rat across n observation time points.
